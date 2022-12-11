@@ -1,0 +1,6 @@
+design document
+
+this implementation uses a an interface class of sorts
+called auto_v, meaning autonomous vehicle. we have
+implemented two other classes, motorcycle and car, 
+both who implement the auto_v class. 
